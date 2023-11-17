@@ -1,6 +1,6 @@
 ini text11
 ini text22
-ini text3
+ini text
 ini text4
 ini text5
 ini text6
